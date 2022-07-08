@@ -8,3 +8,6 @@ services:
     restart: always
     env_file:
       - .env
+        GITHUB_PERSONAL_TOKEN=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
+        GITHUB_OWNER=Romanticoseu
+        GITHUB_REPOSITORY=BigDL
